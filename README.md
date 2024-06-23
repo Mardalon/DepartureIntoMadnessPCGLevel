@@ -2,6 +2,9 @@
  Backroom PCG sollte in Inhalte/_Generated/Mardalon sein
 
 Komplette Unreal Datei:
+https://www.sendbig.com/view-files/?Id=31af1746-7acd-bb6f-976f-e302e23dc857
+
+Unreal Datei in Teilen:
 https://wetransfer.com/downloads/812031de4793ba5b66d2d8ed78176f2e20240623170610/f7fc72a3b038e1732b73d318ab87637e20240623170622/08b882 - Build.zip, Config.zip, DerivedDataCache.zip, Intermediate.zip, MyProject.zip, Windows.zip -> in überordnerMyProject entpacken
 https://wetransfer.com/downloads/011ed6088e6e34878915851eb7383fb820240623171530/a96a8360c414d839c3721c46521208fe20240623171539/df7d75 - MS_BrickGroutV1.zip -> in überordnerMyProject entpacken
 https://wetransfer.com/downloads/de43189dbff7ef761fbcc2f79b23815420240623173016/83c515f41f5c31f2eb24f37d7f47598620240623173028/a48f58 - Content01.zip -> in ordner Content entpacken
