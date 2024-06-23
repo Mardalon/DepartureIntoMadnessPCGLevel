@@ -23,4 +23,4 @@ https://wetransfer.com/downloads/86ec22a9aa13e5c88779ec3b2f9eb8da20240623181624/
                 -MyProject.png
                 -MyProject.uproject
 
-README.md ist im Code zum Lesen formatiert
+README.md ist in Codeform zum Lesen formatiert
